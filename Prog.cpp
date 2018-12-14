@@ -5,7 +5,7 @@ int main()
 {
 	double a, b;
     char c;
-    cout << "Input expression like: a*b, * as C; C can be '*','/','+','-'" << endl;
+    cout << "Input expression like: a*b; * as C; C can be '*','/','+','-'" << endl;
     cin >> a;
     cin >> c;
     cin >> b;
