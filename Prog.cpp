@@ -9,6 +9,14 @@ int main()
     cin >> a;
     cin >> c;
     cin >> b;
+	 switch (c)
+    {
+    case '/': cout << a<<"/"<<b<<"="<< DEL(a,b)<<endl;
+        break;
+    case '*':cout << a<<"*"<<b<<"="<< UMN(a,b)<<endl;
+        break;
+    deafult: cout << "Err"<<endl;
+    }
 
     }
 system("pause");
