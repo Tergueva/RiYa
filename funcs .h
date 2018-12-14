@@ -2,9 +2,12 @@
 #define FUNCS_H
 
 
-double UMN(double, double);
-double DEL(double, double);
-double SLOZH(double, double);
-double VICH(double, double);
+double multiplication(double, double);
+
+double division(double, double);
+
+double plus(double, double);
+
+double subtraction(double, double);
 
 #endif // FUNCS_H
