@@ -4,7 +4,7 @@ using namespace std;
 int main()
 
 {
-    char c;
+    char vibor;
     double a, b;
     
 return 0;
